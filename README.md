@@ -1,1 +1,2 @@
-https://rabiyatariq.github.io/news-website/
+## News App
+https://madihatariqparacha.github.io/News-App/
